@@ -1,0 +1,79 @@
+{
+	"firstName" : "Stipe",
+	"lastName" : "Stipic",
+	"age" : 25,
+	"address": {
+		"postCode" : "21000",
+		"city" : "Split",
+		"country" : "Croatia"
+	},
+	"interestedIn" : [
+		"it",
+		"sport"
+	],
+	"spentInBooks" : 250
+}
+
+{
+    	"firstName": "Ante",
+    	"lastName": "Antić",
+    	"age" : 26,
+	"address": {
+		"postCode" : "21000",
+		"city" : "Split",
+		"country" : "Croatia"
+	},
+    	"interestedIn": [
+        	"economics",
+        	"politics"
+    	],
+    	"spentInBooks" : 550
+}
+
+{
+	"firstName" : "Ivana",
+	"lastName" : "Ivic",
+	"age" : 18,
+	"address": {
+		"postCode" : "23000",
+		"city" : "Makarska",
+		"country" : "Croatia"
+	},
+	"interestedIn" : [
+		"economics",
+		"sport"
+	],
+	"spentInBooks" : 20
+}
+
+{
+	"firstName" : "Nikolina",
+	"lastName" : "Nikolic",
+	"age" : 19,
+	"address": {
+		"postCode" : "21315",
+		"city" : "Omiš",
+		"country" : "Croatia"
+	},
+	"interestedIn" : [
+		"economics",
+		"it"
+	],
+	"spentInBooks" : 50
+}
+
+{
+	"firstName" : "Test123",
+	"lastName" : "Test123",
+	"age" : 19,
+	"address": {
+		"postCode" : "21315",
+		"city" : "Omiš",
+		"country" : "Croatia"
+	},
+	"interestedIn" : [
+		"economics",
+		"it"
+	],
+	"spentInBooks" : 50
+}
